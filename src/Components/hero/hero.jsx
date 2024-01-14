@@ -7,14 +7,14 @@ export default function Hero(){
                 <div>
                     <div className="hero-hand-icon">
                         <p>new</p>
-                        <img src={'images/17.jpg '} alt="" /> 
+                        👏 
                     </div>
                     <p>Collections </p>
                     <p>for everyone</p>
                 </div>
                 <div className="hero-latest-btn">
                     <div>Latest Collection</div>
-                    <img src={'images/Cart1.png'} alt="" />
+                    <img src={'images/Fill with Right Arrow.png'} alt="" />
                 </div>
             </div>
             <div className="hero-right">

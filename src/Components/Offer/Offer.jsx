@@ -9,7 +9,7 @@ export default function Offer(){
                 <button>Check now</button>
              </div>
              <div className="offers-right">
-                <img src={'images/10.jpg'} alt="" style={{width:'200px',height:'200px'}} />
+                <img src={'images/shopping.jpg'} alt="" style={{width:'300px',height:'400px',borderRadius:'30px',}} />
              </div>
         </div>
     )
